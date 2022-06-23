@@ -9,7 +9,7 @@ The purpose of this project is to predict if a passenger survived the sinking of
 ## Project Description
 The data has been taken from Kaggle [here](https://www.kaggle.com/competitions/titanic/data). The first thing was to get some insight of the data, the structure and missing values. Next thing was to clean the data and get a deeper understanding of the data. Finally I used two models, a logistic regression and a random forest, and used the random forest, which was more accurate, to do the predictions. 
 
-![alt text](https://github.com/emipizana/Project-2/blob/main/Graphs/Rplot04.png)
+![Model accuracy](https://github.com/emipizana/Project-2/blob/main/Graphs/Rplot04.png)
 
 
 
